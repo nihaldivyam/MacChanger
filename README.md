@@ -1,4 +1,4 @@
 # MacChanger
 Change MAC id of Linux System 
 
-This is my first script ever Wrote . 
+This is my first script ever Written.
